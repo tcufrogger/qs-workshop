@@ -5,11 +5,11 @@
     },
     {
         "ParameterKey": "EmailAddress",
-        "ParameterValue": "email@yourdomain.com"
+        "ParameterValue": "jdemby@tableau.com"
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "AKIAIRYUAQTBXARLJQYA,GtaO+jv5yfft8YmWtk8LNa7IaCVBowokJ9oly2Fl"
     },
     {
         "ParameterKey": "RemoteAccessCIDR",
